@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 00000000000000000000000000000000
+  productGUID: 9558cd95398bf674e8b9a25a3fd8442d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -941,7 +941,7 @@ PlayerSettings:
   cloudProjectId: 161bf331-7976-4b86-bb58-0a2250d2e8f8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: CreatorKitFPSP7Avila
   organizationId: cruz_avila121
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
